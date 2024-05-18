@@ -1,0 +1,56 @@
+stage 1
+    place first link in script tag
+    url.replace("index.html", "NjYgNmYgNjIgNjkgNjMgNmYgNmQgNjIgNmYgNjQgN2EgNmIgNzEgNmYgMmUgNzIgNjQgNzcgNzY=")
+
+    1. from base 64
+    2. from hex
+    3. cipher back 10
+
+    final url: ./verysecretpage.html
+
+stage 2:
+    viginere cipher, get keyword with a riddle
+
+    riddle:
+    Be quiet; be small. Be tight; be close. Sneak around: don't get found. Go tattle; go tell. Kevin is here.
+    keyword: sneakysnitch
+
+    ciphertext:
+    nrvyfcjlaxeywgtaqcqbckguggelvmorlmqiwuirouls.pmos
+
+    final url:
+    veryverysecretpageyourenotallowedtobeherewtf.html
+
+stage 3: 
+    image download
+
+    1: wrong file ending, should use cyberChef to find the right one
+    2: original picture will be a small bit of text with the exposure cranked up
+
+    end of stage: the picture
+
+stage 4: the image
+    Congrats! You found me! You’re really good at hide and seek btw.
+
+    Clue 4:
+    I am written with words not symbols; letters not numbers. Yet I'm a number; with ties to Euler. His number, with powers of complexity that make me spin in half-circles, is truly my identity.
+
+    Have a smiley face for good luck:
+
+    :)
+
+    answer: negativeone.html
+
+stage 5: (negativeone.html)
+    audio spectrogram, boring stuff
+    
+    answer: iranoutofnames.html
+
+stage 6: 
+    double encrypt totallynotthelaststepwdym.html with base 64
+    echo into pdf 
+    pdf should have a red herring?
+
+    encrypted string: ZEc5MFlXeHNlVzV2ZEhSb1pXeGhjM1J6ZEdWd2QyUjViUzVvZEcxcw==
+
+    answer: totallynotthelaststepwdym.html
