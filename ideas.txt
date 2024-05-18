@@ -54,3 +54,6 @@ stage 6:
     encrypted string: ZEc5MFlXeHNlVzV2ZEhSb1pXeGhjM1J6ZEdWd2QyUjViUzVvZEcxcw==
 
     answer: totallynotthelaststepwdym.html
+
+stage 7: 
+    literally just copy the "ciphertext" in lmfao
